@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\bin\Debug\net6.0\Example_007_magic.exe
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\bin\Debug\net6.0\Example_007_magic.deps.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\bin\Debug\net6.0\Example_007_magic.runtimeconfig.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\bin\Debug\net6.0\Example_007_magic.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\bin\Debug\net6.0\Example_007_magic.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.AssemblyInfo.cs
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\refint\Example_007_magic.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\Example_007_magic.genruntimeconfig.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_007_magic\obj\Debug\net6.0\ref\Example_007_magic.dll
