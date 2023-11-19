@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\bin\Debug\net6.0\Exammple_006_Base.exe
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\bin\Debug\net6.0\Exammple_006_Base.deps.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\bin\Debug\net6.0\Exammple_006_Base.runtimeconfig.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\bin\Debug\net6.0\Exammple_006_Base.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\bin\Debug\net6.0\Exammple_006_Base.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.AssemblyInfo.cs
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\refint\Exammple_006_Base.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\Exammple_006_Base.genruntimeconfig.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Exammple_006_Base\obj\Debug\net6.0\ref\Exammple_006_Base.dll
