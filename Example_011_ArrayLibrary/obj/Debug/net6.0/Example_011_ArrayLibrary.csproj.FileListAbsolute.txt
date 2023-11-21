@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\bin\Debug\net6.0\Example_011_ArrayLibrary.exe
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\bin\Debug\net6.0\Example_011_ArrayLibrary.deps.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\bin\Debug\net6.0\Example_011_ArrayLibrary.runtimeconfig.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\bin\Debug\net6.0\Example_011_ArrayLibrary.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\bin\Debug\net6.0\Example_011_ArrayLibrary.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\refint\Example_011_ArrayLibrary.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\Example_011_ArrayLibrary.genruntimeconfig.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_011_ArrayLibrary\obj\Debug\net6.0\ref\Example_011_ArrayLibrary.dll
