@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.AssemblyInfo.cs
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\bin\Debug\net6.0\Example_008_introMetod.exe
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\bin\Debug\net6.0\Example_008_introMetod.deps.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\bin\Debug\net6.0\Example_008_introMetod.runtimeconfig.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\bin\Debug\net6.0\Example_008_introMetod.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\bin\Debug\net6.0\Example_008_introMetod.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\refint\Example_008_introMetod.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\Example_008_introMetod.genruntimeconfig.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_008_introMetod\obj\Debug\net6.0\ref\Example_008_introMetod.dll
