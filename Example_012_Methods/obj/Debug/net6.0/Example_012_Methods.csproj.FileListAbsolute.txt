@@ -1,0 +1,15 @@
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.exe
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.deps.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.runtimeconfig.json
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\bin\Debug\net6.0\Example_012_Methods.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.csproj.AssemblyReference.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.AssemblyInfoInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.AssemblyInfo.cs
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\refint\Example_012_Methods.dll
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.pdb
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\Example_012_Methods.genruntimeconfig.cache
+C:\Users\Vitaliy\OneDrive\Рабочий стол\Учеба\Examples\Example_012_Methods\obj\Debug\net6.0\ref\Example_012_Methods.dll
